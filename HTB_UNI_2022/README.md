@@ -14,5 +14,7 @@ A link to the event page can be found [here](https://ctf.hackthebox.com/event/de
 
 - Rank: 175
 
+- Total Number of Challenges: 20
+
 - Challenges solved: 2 (Both were reversing challenges)
 
