@@ -8,7 +8,7 @@ A link to the event page can be found [here](https://ctf.hackthebox.com/event/de
 
 - Number of Players: 4522
 
-- Maximum Team Pize: 20
+- Maximum Team Size: 20
 
 - My Team Size: 1
 
